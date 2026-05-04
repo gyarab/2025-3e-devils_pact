@@ -11,8 +11,7 @@ Souboje probíhají na základě hodu kostkami. Každé kolo hráč hodí 3 kost
 Dostupná vylepšení: maximální životy, kapacita štítu, útočné poškození.
  
 ## Ovládání
- 
-- W / A / S / D — pohyb
+ šipky — pohyb
 ## Technologie
  
 - Java + JavaFX
