@@ -12,6 +12,8 @@ Dostupná vylepšení: maximální životy, kapacita štítu, útočné poškoze
  
 ## Ovládání
  šipky — pohyb
+ akce ve hře (útok, hod kostkami a další) - mezerník
+ koupit v obchodu - enter
 ## Technologie
  
 - Java + JavaFX
