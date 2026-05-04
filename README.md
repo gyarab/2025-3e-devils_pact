@@ -18,3 +18,7 @@ Dostupná vylepšení: maximální životy, kapacita štítu, útočné poškoze
  
 - Java + JavaFX
 - Pixel art vytvořen v aplikaci Aseprite
+
+## Dokumentace
+
+- https://docs.google.com/document/d/1QfPm7urmsPQIhDnOnBkZ8viBnhjiV1ZGYF88hDf76Xc/edit?usp=sharing
