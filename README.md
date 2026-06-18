@@ -35,6 +35,8 @@ Správná struktura projektu vypadá takto:
   ├── /Assets           <-- Zde musí být složky s texturami (Backgrounds, Characters, atd.)
   └── /projectfx
         └── DevilsPact.java
+```
+
 ## Dokumentace
 
 - https://docs.google.com/document/d/1QfPm7urmsPQIhDnOnBkZ8viBnhjiV1ZGYF88hDf76Xc/edit?usp=sharing
