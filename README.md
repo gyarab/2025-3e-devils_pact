@@ -18,7 +18,23 @@ Dostupná vylepšení: maximální životy, kapacita štítu, útočné poškoze
  
 - Java + JavaFX
 - Pixel art vytvořen v aplikaci Aseprite
+## Spuštění
 
+Tato hra je naprogramována v jazyce **Java** a pro grafické rozhraní využívá framework **JavaFX**. Protože JavaFX není od verze JDK 11 zabudováno přímo v základní Javě, je potřeba při spouštění dodržet několik kroků.
+
+### Požadavky na systém
+* **Java Development Kit (JDK)** - doporučena verze 17 nebo novější.
+* **JavaFX SDK** (případně vývojové prostředí, které ho stahuje automaticky, nebo nástroj typu Maven/Gradle).
+
+### Důležité: Struktura složek (Assets)
+Aby hra správně načetla veškeré textury a nespadla (nebo nevykreslila pouze zástupné barevné čtverce), musí být složka `Assets` umístěna přímo v kořenovém adresáři zdrojových kódů (vedle balíčku `projectfx`).
+
+Správná struktura projektu vypadá takto:
+```text
+/src
+  ├── /Assets           <-- Zde musí být složky s texturami (Backgrounds, Characters, atd.)
+  └── /projectfx
+        └── DevilsPact.java
 ## Dokumentace
 
 - https://docs.google.com/document/d/1QfPm7urmsPQIhDnOnBkZ8viBnhjiV1ZGYF88hDf76Xc/edit?usp=sharing
